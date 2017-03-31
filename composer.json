@@ -1,4 +1,9 @@
 {
+    "name": "wolnosciowiec/domain-certificate-check",
+    "license": "LGPLv3",
+    "type": "library",
+    "description": "A Zend Diagnostics check that notifies about the upcoming expiration of your domains.",
+
     "require-dev": {
         "phpunit/phpunit": "^6.0"
     },
