@@ -1,0 +1,13 @@
+{
+    "require-dev": {
+        "phpunit/phpunit": "^6.0"
+    },
+    "require": {
+        "zendframework/zenddiagnostics": "^1.0"
+    },
+    "autoload": {
+        "classmap": [
+            "./"
+        ]
+    }
+}
